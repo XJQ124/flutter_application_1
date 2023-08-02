@@ -245,7 +245,7 @@ void main() {
 }
 */
 //7、存储可变的状态
-/*
+
 class Product {
   const Product({required this.name});
 
@@ -369,4 +369,3 @@ void main() {
     ),
   ));
 }
-*/
